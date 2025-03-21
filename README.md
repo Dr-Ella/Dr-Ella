@@ -1,23 +1,14 @@
 ## Hi there 👋
-Welcome to my GitHub! I’m passionate about data-driven decision-making, especially in healthcare, business, and non-profits. With expertise in Excel, SQL, and Python, I turn raw data into actionable insights that drive real-world impact.
+Welcome to my GitHub! I’m Emmanuella Jonas, passionate about data-driven decision-making, especially in healthcare, business, and non-profits. With expertise in Excel, and SQL.I turn raw data into actionable insights that drive real-world impact.
 
 🔍 What I Do in Data Analysis
-✔ Exploratory Data Analysis (EDA) – Uncovering trends and insights from structured and unstructured data. ✔ SQL & Database Management – Writing optimized queries for data extraction and transformation. ✔ Data Visualization – Communicating findings through Excel ✔ Business & Financial Analytics – Using Excel models and forecasting to support decision-making.
-Beyond data, I leverage my skills in grant writing, executive assistance, and copywriting to support research, funding, and business strategies.
-<!--
-**Dr-Ella/Dr-Ella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔ Exploratory Data Analysis (EDA) – Uncovering trends and insights from structured and unstructured data. 
+✔ SQL & Database Management – Writing optimized queries for data extraction and transformation. 
+✔ Data Visualization – Communicating findings through Excel 
+✔ Business & Financial Analytics – Using Excel models and forecasting to support decision-making.
+✓Beyond data, I leverage my skills in grant writing, executive assistance, and copywriting to support research, funding, and business strategies.
+✓I have also got a strong critical thinking, problem-solving and communication skills as well as the ability to collaborate and work well in a team.
+✓👩🏻‍🤝‍👨🏽 I'm looking to collaborate on data analysis jobs and projects that allow me to apply my skills and expertise to help organizations especially in the Healthcare and Development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonas-emmanuella-76014b2ba?) 
