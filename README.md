@@ -22,6 +22,11 @@ Welcome to my GitHub! I’m Emmanuella Jonas, passionate about data-driven decis
 
 # 💻 Tech Stack:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+🔹 Languages: SQL (PostgreSQL)
+🔹 Tools: Excel,  Google Sheets 
+🔹 Other Skills: Research, Business Writing, Healthcare Data Analysis
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dr-Ella &theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dr-Ella &theme=swift&hide_border=false)<br/>
