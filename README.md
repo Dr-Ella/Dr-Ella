@@ -1,5 +1,9 @@
 ## Hi there 👋
+Welcome to my GitHub! I’m passionate about data-driven decision-making, especially in healthcare, business, and non-profits. With expertise in Excel, SQL, and Python, I turn raw data into actionable insights that drive real-world impact.
 
+🔍 What I Do in Data Analysis
+✔ Exploratory Data Analysis (EDA) – Uncovering trends and insights from structured and unstructured data. ✔ SQL & Database Management – Writing optimized queries for data extraction and transformation. ✔ Data Visualization – Communicating findings through Excel ✔ Business & Financial Analytics – Using Excel models and forecasting to support decision-making.
+Beyond data, I leverage my skills in grant writing, executive assistance, and copywriting to support research, funding, and business strategies.
 <!--
 **Dr-Ella/Dr-Ella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
